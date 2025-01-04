@@ -2,7 +2,7 @@
 This repository is part of the Final Task Project-Based Internship at Rakamin x Home Credit Indonesia. The goal is to predict loan repayment success, ensuring creditworthy customers are not turned down while maintaining a structure that encourages successful repayments.
 
 ## Project Overview
-Financial institutions face significant challenges in managing credit risk. This project aims to develop a predictive model to assess loan repayment success based on customer demographics, financial history, and loan details.
+Home Credit Indonesia as a financial institutions face significant challenges in managing credit risk. This project aims to develop a predictive model to assess loan repayment success based on customer background, financial history, and loan details.
 
 Key Objectives:
 - Predict loan repayment success accurately.
