@@ -25,7 +25,7 @@ The project utilizes datasets from Home Credit, including:
 
 ## Methodology
 
-1. **Explanatory Data Analysis (EDA)**
+1. **Exploratory Data Analysis (EDA)**
 2. **Feature Selection**
 3. **Data Preprocessing**: Handling missing values, drop duplicates, outlier treatment, feature transformation, and handle class imbalance.
 4. **Machine Learning Modeling**: Implementing machine learning models (Logistic Regression, Decision Tree, and KNN).
